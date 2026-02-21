@@ -1,0 +1,14 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning & Logic
+scikit-learn
+joblib
+
+# Visualization & EDA
+matplotlib
+seaborn
+
+# Environment & Utilities
+python-dotenv
